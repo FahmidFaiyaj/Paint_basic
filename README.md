@@ -1,2 +1,2 @@
 # Paint_basic
-A simplified version of MS Paint implemented through pygame
+A simplified version of MS Paint implemented through pygame.
